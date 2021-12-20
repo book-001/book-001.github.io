@@ -1,0 +1,135 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="theme-color" content="#ca733b"><meta name="author" content="王小星"><meta name="copyright" content="王小星"><meta name="generator" content="Hexo 5.4.0"><meta name="theme" content="hexo-theme-yun"><title>Color Dust | 王小星的小破站</title><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/theme/white.css"><link rel="alternate" href="/atom.xml" title="王小星的小破站" type="application/atom+xml">
+</head><body><div class="reveal"><div class="slides"><section data-markdown data-separator="---" data-separator-vertical="~~" data-separator-notes="^Note:"><script type="text/template">```md
+## Slide 1
+
+## A paragraph with some text and a [link](http://hakim.se).
+
+## Slide 2
+```
+> 像素 =>
+> <span style="color:red">R</span> <span style="color:green">G</span> <span style="color:blue">B</span>
+测试数据，在线切换
+> Note: 我也准备了一些随机图片，届时可以点击切换效果。
+<section><br/><br/><a href="#/last-page">跳转到最后一页</a></section>
+---
+## 这是设置背景和代码高亮的
+<!-- .slide: data-background="#fff000" -->
+    Markdown content
+## 这是幻灯片
+- 你好 <!-- .element: class="fragment" data-fragment-index="3" -->
+- 快乐 <!-- .element: class="fragment" data-fragment-index="1" -->
+- 我很快乐 <!-- .element: class="fragment" data-fragment-index="2" -->
+~~
+a1
+<!-- .slide: data-background="#fff000" -->
+## <span style="color:red">这是</span> <span style="color:green">语句</span> <span style="color:blue">高亮</span> <span style="color:pink">···</span>
+```js[1|2|3|4]
+var a = 10;
+vsr b = 11;
+var c = 12;
+var d = 13;
+```
+---
+<section data-background-color="aquamarine">
+  <h2>🐟</h2>
+</section>
+<section data-background-color="rgb(70, 70, 255)">
+  <h2>🐳</h2>
+</section>
+---
+<section data-background-image="../images/baiyun_img.jpg">
+  <h2>Image</h2>
+</section>
+<section data-background-image="../images/avatar.jpg" 
+          data-background-size="400px" data-background-repeat="repeat">
+  <h2>This background image will be sized to 100px and repeated</h2>
+</section>
+---
+<video autoplay="autoplay" controls="controls" loop="loop" src="./aigei[1].mp4"></video>
+<h2>Video<span style="color:green">这是专属水印没有实现</span></h2>
+---
+<contain>
+<section data-background-video="./aigei[1].mp4" 
+          data-background-video-loop data-background-size="400px" data-background-opacity="1">
+  <h2>Video<span style="color:green">这是专属水印</span></h2>
+</section>
+</contain>
+---
+<section data-background-iframe="http://www.bjhpyy.cn/imomoeplay-50-3-1.html"
+          data-background-interactive data-background-transition="zoom">
+  <h2>Iframe</h2>
+</section>
+---
+<section >
+  <table>
+    <tr>
+      <td><span style="color:red">Apples</span></td>
+      <td>$1</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td><span style="color:green">Oranges</span></td>
+      <td>$2</td>
+      <td>18</td>
+    </tr>
+    <tr>
+      <td><span style="color:blue">Kiwi</span></td>
+      <td>$3</td>
+      <td>1</td>
+    </tr>
+  </table>
+</section>
+---
+
+# 堆叠
+<div class="r-stack">
+  <img class="fragment" src="https://placekitten.com/450/300" width="450" height="300">
+  <img class="fragment" src="https://placekitten.com/300/450" width="300" height="450">
+  <img class="fragment" src="https://placekitten.com/400/400" width="400" height="400">
+</div>
+~~
+
+# 单独显示
+<div class="r-stack">
+  <img class="fragment fade-out" data-fragment-index="0" src="https://placekitten.com/450/300" width="450" height="300">
+  <img class="fragment current-visible" data-fragment-index="0" src="https://placekitten.com/300/450" width="300" height="450">
+  <img class="fragment" src="https://placekitten.com/400/400" width="400" height="400">
+</div>
+---
+<h2 class="r-fit-text">爱上对方过后就哭了</h2>
+<h2 class="r-fit-text">大</h2>
+---
+<h2>Stretch Example</h2>
+<table border="8">
+  <tr>
+    <td bgcolor="#abc">jing1</td>
+	<td bgcolor="pink"><img class="r-stretch" src="../images/jing1.jpg" height="100" width="100" border="3"></td>
+	<td>new Date();</td>
+  </tr>
+  <tr>
+    <td bgcolor="pink">jing2</td>
+  	<td bgcolor="#abc"><img class="r-stretch" src="../images/jing2.jpg" height="100" width="100" border="3"></td>
+	<td>new Date();</td>
+  </tr>
+</table>
+
+<p>Image byline</p>
+---
+<section id="last-page"><a href="#/0">最后一页,跳转第一页</a></section>
+
+# 测试
+<button class="navigate-left">Left</button>
+<button class="navigate-right">Right</button>
+<button class="navigate-up">Up</button>
+<button class="navigate-down">Down</button>
+
+<!-- Previous vertical OR horizontal slide -->
+<button class="navigate-prev">Prev</button>
+
+ <!-- Next vertical OR horizontal slide -->
+<button class="navigate-next">Next</button>
+</script></section></div></div><script src="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.js"></script><script src="https://cdn.jsdelivr.net/npm/reveal.js/plugin/markdown/markdown.js"></script><script src="https://cdn.jsdelivr.net/npm/reveal.js/plugin/notes/notes.js"></script><script src="https://cdn.jsdelivr.net/npm/reveal.js/plugin/highlight/highlight.js"></script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/plugin/highlight/monokai.css"><script>document.addEventListener("DOMContentLoaded", function() {
+  const revealConfig = {"history":true,"mouseWheel":true}
+  revealConfig.plugins = [ RevealMarkdown, RevealNotes, RevealHighlight ]
+  Reveal.initialize(revealConfig);
+})</script></body></html>
