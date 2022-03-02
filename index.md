@@ -1,9 +1,28 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的世界
 
-You can use the [editor on GitHub](https://github.com/book-001/book-001.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+[这是我的GitHub](https://github.com/book-001/book-001.github.io/edit/main/index.md)
+![这是我的名字](https://user-images.githubusercontent.com/62272566/156384781-24ee3d89-de3b-4dff-a780-f0ff4095dad7.jpeg)
+- 这是新的开始
+- 这是中间部分
+- 这可以是结尾
+```java
+a = '这里是写代码的地方'
+print('1.😄 %s' % a)
+```
+>像素 ==>
+> <span style="color:red">R</span> <span style="color:green">G</span> <span style="color:blue">B</span>
+>不支持
+- hahahahahahahahah
+- lalalallalallaalal
+>接着再来
+---
+https://user-images.githubusercontent.com/62272566/156389991-7397f981-9701-4175-9638-61ce1d19325e.mp4
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
+
+## 后面的我懒得删
+～～～
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
