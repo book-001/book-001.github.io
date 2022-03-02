@@ -1,4 +1,4 @@
-<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script>/* global instantsearch, algoliasearch, CONFIG */
+/* global instantsearch, algoliasearch, CONFIG */
 
 document.addEventListener("DOMContentLoaded", () => {
   const algoliaSettings = CONFIG.algolia;
@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", () => {
             .replace(/\$\{time}/, data.processingTimeMS);
           return `${stats}
             <span class="algolia-powered">
-              <img src="https://algolia.com/icons/icon-48x48.png" alt="Algolia" loading="lazy">
+              <img src="https://algolia.com/icons/icon-48x48.png" alt="Algolia">
             </span>
             <hr>`;
         },
