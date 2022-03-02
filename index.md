@@ -18,13 +18,11 @@ print('1.😄 %s' % a)
 
 # 至少还有你
 
-<audio width="600" height="300" src="https://github.com/book-001/book-001.github.io/edit/main/至少还有你.mp4">
+<audio width="600" height="300" src="https://user-images.githubusercontent.com/62272566/156401098-0f0487d2-c628-4a87-b993-6aa3c1a949eb.mp4">
   你的浏览器不支持video元素!
 </audio>
 
 ---
-
-
 ## 后面的我懒得删
 ～～～
 ### Markdown
