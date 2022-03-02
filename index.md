@@ -18,7 +18,9 @@ print('1.😄 %s' % a)
 
 # 至少还有你
 
-[音乐](https://user-images.githubusercontent.com/62272566/156389991-7397f981-9701-4175-9638-61ce1d19325e.mp4)
+<audio width="600" height="300" src="https://github.com/book-001/book-001.github.io/edit/main/至少还有你.mp4">
+  你的浏览器不支持video元素!
+</audio>
 
 ---
 
