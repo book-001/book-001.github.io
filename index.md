@@ -18,7 +18,7 @@ print('1.😄 %s' % a)
 
 ## 至少还有你
 # 你好
-[🎵音乐🎵](https://user-images.githubusercontent.com/62272566/156401098-0f0487d2-c628-4a87-b993-6aa3c1a949eb.mp4)
+[🎵音乐🎵](http://218.205.239.34/MIGUM2.0/v1.0/content/sub/listenSong.do?toneFlag=HQ&netType=00&copyrightId=0&contentId=600919000004633426&resourceType=2&channel=0)
 # 很好
 https://user-images.githubusercontent.com/62272566/156401098-0f0487d2-c628-4a87-b993-6aa3c1a949eb.mp4
 
