@@ -1,6 +1,6 @@
 ## 欢迎来到我的世界
 
-[这是我的GitHub](https://github.com/book-001/book-001.github.io/edit/main/index.md)
+[这是我的GitHub](https://github.com/book-001/book-001.github.io)
 ![这是我的名字](https://user-images.githubusercontent.com/62272566/156384781-24ee3d89-de3b-4dff-a780-f0ff4095dad7.jpeg)
 - 这是新的开始
 - 这是中间部分
@@ -18,7 +18,7 @@ print('1.😄 %s' % a)
 
 # 至少还有你
 
-[](https://user-images.githubusercontent.com/62272566/156389991-7397f981-9701-4175-9638-61ce1d19325e.mp4)
+[音乐](https://user-images.githubusercontent.com/62272566/156389991-7397f981-9701-4175-9638-61ce1d19325e.mp4)
 
 ---
 
