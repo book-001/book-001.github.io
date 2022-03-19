@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>博客搭建</title>
+      <link href="//f3fb008f/"/>
+      <url>//f3fb008f/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><h1 id="使用Hexo和github-pages快速搭建一个简易的博客"><a href="#使用Hexo和github-pages快速搭建一个简易的博客" class="headerlink" title="使用Hexo和github pages快速搭建一个简易的博客"></a>使用Hexo和github pages快速搭建一个简易的博客</h1><ul><li><strong><a href='#1'><em>注册GitHub账号,并创建仓库</em></a></strong></li><li><strong><a href='#2'><em>设置GitHub Pages页</em></a></strong></li><li><strong><a href='#3'><em>未完待续</em></a></strong></li></ul><hr><p>这里来测试</p><hr><blockquote><h2 id="一-注册GitHub账号-并创建仓库"><a href="#一-注册GitHub账号-并创建仓库" class="headerlink" title="一. 注册GitHub账号,并创建仓库"></a>一. <strong><a id='1'><em>注册GitHub账号,并创建仓库</em></a></strong></h2></blockquote><ol><li>打开GitHub官网<code>https://github.com/</code>，点击<code>sign up</code>注册账号(注:<code>sign in</code>为登陆)<img src="https://img-blog.csdnimg.cn/20181222001357253.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxNzgyNDI1,size_16,color_FFFFFF,t_70" alt="图片加载失败" loading="lazy"></li><li>点击后如下图所示，创建您的个人帐户<img src="https://img-blog.csdnimg.cn/20190817210402634.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwOTI0NTE0,size_16,color_FFFFFF,t_70" alt="图片加载失败" loading="lazy"></li><li>个人计划选择Free免费(Developer开发商付费的，每个月7美元，可以创建私有的仓库)<img src="https://img-blog.csdnimg.cn/20190817210603555.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwOTI0NTE0,size_16,color_FFFFFF,t_70" alt="图片加载失败" loading="lazy"></li><li>选择您的个人计划，这一步直接点击<code>skip this step</code>(跳过该步骤即可)<img src="https://img-blog.csdnimg.cn/20181222010330434.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxNzgyNDI1,size_16,color_FFFFFF,t_70" alt="图片加载失败" loading="lazy"></li><li>选择<code>skip this step</code>后，需登录你注册时填写邮箱，进行确认电子邮箱地址!</li><li>登录你注册时的邮箱，打开邮件，点击确认按钮，这样就注册成功了 </li><li>创建个人站点<br>使用自己的用户名，每个用户名下面只能建立一个；<br>资源命名必须符合这样的规则username/<a href="http://username.github.com;/">http://username.github.com；</a><br>主干上内容被用来构建和发布页面<img src="https://pic2.zhimg.com/80/v2-215cd856b2b62e0b753dd48d05c6d11d_720w.jpg" alt="图片加载失败" loading="lazy"></li></ol><hr><blockquote><h2 id="二-设置GitHub-Pages页"><a href="#二-设置GitHub-Pages页" class="headerlink" title="二. 设置GitHub Pages页"></a>二. <strong><a id='2'><em>设置GitHub Pages页</em></a></strong></h2></blockquote><ol><li>设置站点主题<br>进入资源-setting <img src="https://pic3.zhimg.com/80/v2-5d874d8fefd3e0dbf8d77721556cfe9a_720w.jpg" alt="图片加载失败" loading="lazy"><br>更新你的站点(pages) <img src="https://pic2.zhimg.com/80/v2-f026d47182717263aa8b675c093443f9_720w.jpg" alt="图片加载失败" loading="lazy"><br>选择主题并发布 <img src="https://pic2.zhimg.com/80/v2-75fb51a42214eb8aeb7cce16b7ff6aa9_720w.jpg" alt="图片加载失败" loading="lazy"><br>设置完成后保存 等待几分钟 访问 你自己的用户名.github.com 访问</li></ol><hr><blockquote><h2 id="三-未完待续"><a href="#三-未完待续" class="headerlink" title="三. 未完待续"></a>三. <strong><a id='3'><em>未完待续</em></a></strong></h2></blockquote><pre class="line-numbers language-none"><code class="language-none">未完待续<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客搭建 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> node </tag>
+            
+            <tag> git </tag>
+            
+            <tag> github pages </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>王小星</title>
       <link href="//e3cdd7f1/"/>
       <url>//e3cdd7f1/</url>
